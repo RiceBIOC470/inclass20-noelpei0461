@@ -1,4 +1,13 @@
 %Inclass 20
+%GB comments
+All of your plots are incorrectly implemented. An error occurs for all of them. This was crucial part of the exercise. You need to take your ouput data from the fit function and plot that data. Syntax should follow as 
+plot(fit_out,x',y')
+1 80
+2 80
+3 80
+4. 80
+Overall 80
+
 
 %In this folder you will find a .mat file with x and y data
 
